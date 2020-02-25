@@ -1,1 +1,2 @@
-# kotlin_coursera
+# Kotlin Coursera
+My solutions to the [Kotlin for Java Developers course on Coursera](https://www.coursera.org/learn/kotlin-for-java-developers/home/welcome) for the assignments on the final weeks 4 and 5.
